@@ -1,42 +1,54 @@
-### Hi there 👋 Let's Know Me Better !  
+### Hi there, I'm Ferdous Kazemi 👋
 
-## I'm Ferdous Kazemi 
-#### Front End Developer & WordPress Developer.
-I have over 4 years of
-experience in working with React, Next.js, TypeScript, Redux Toolkit,
-Antd, Tailwind CSS, React Query, Zustand, Cucumber, and Playwright. I
-have also worked with American startups and international clients.
+#### Senior Front-End Developer | UI & UX | WordPress Designer
 
-<ul> 
-  <li>🖥️ All of my projects are available at <a href="https://ferdouskazemi.me"> Ferdous Kazemi </a></li>
-  <li>📝 Know about my experince at <a href="https://ferdouskazemi.me"> Ferdous Kazemi </a></li>
-</ul>
+I am a Senior Front-End Developer with over **5 years of experience** building responsive, SEO-optimized applications for American startups and international clients. I specialize in **React, Next.js, and TypeScript**, with a strong background in integrating complex third-party tools and automating workflows.
 
-<br />
+Currently, I am focused on delivering high-performance web solutions and exploring automation engineering.
 
-#### My Stacks :
-<ul> 
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>React.js</li>
-  <li>Next.js</li>
-  <li>Typescript</li>
-  <li>Javascript</li>
-  <li>TailwindCss</li>
-  <li>Antd</li>
-  <li>Redux</li>
-</ul>
+---
 
+### 🛠️ Tech Stack & Skills
 
+**Core Technologies**
+* **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), Redux
+* **UI/Styling:** Tailwind CSS, Shadcn UI, Ant Design (Antd), HTML5, CSS3
+* **CMS:** WordPress, Shopify (Liquid), HubSpot (HubL)
 
-### Connect me :
+**Tools & Platforms**
+* **DevOps & Tools:** Git, GitHub Actions, MS Azure, n8n
+* **Design:** Figma, Photoshop
+* **Analytics:** Google Analytics, GTM, Hotjar, Microsoft Clarity
 
-Email Address : <a href="mailto:Ferdouskazemi1000@gmail.com">Ferdouskazemi1000@gmail.com</a>
+---
 
+### 🚀 What I'm Working On & Achievements
 
-<br />
+* **Workflow Automation:** Designing advanced **n8n** automation workflows for business logic.
+* **Browser Extensions:** Building custom **Chrome Extensions** to improve productivity.
+* **Desktop Apps:** Creating cross-platform desktop applications using **Rust**.
+* **AI Integration:** Leveraging LLMs (Claude, ChatGPT, Deepseek) to accelerate complex engineering problems.
 
-### Statistics 
-<hr />
+---
 
-![Ferdous's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferdouskazemi&show_icons=true&theme=transparent)
+### 💼 Experience Highlights
+
+* **INOLITIX (MSN Forenzix):** Architected internal web apps, real-time chat systems, and interactive data visualizations using Chart.js.
+* **True Tale / Taglet:** Built core dashboard features, user authentication, and integrated marketing analytics for a US-based startup.
+* **JAPCO Solutions:** Developed custom HubSpot CMS themes and modules for international brands.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ferdouskazemi&show_icons=true&theme=transparent&hide_border=true" alt="Ferdous's GitHub stats" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+* **Email:** [FerdousKazemi1000@gmail.com](mailto:FerdousKazemi1000@gmail.com)
+* **LinkedIn:** [ferdous-kazemi](https://www.linkedin.com/in/ferdous-kazemi/)
+* **Phone:** +93 70 309 3770
