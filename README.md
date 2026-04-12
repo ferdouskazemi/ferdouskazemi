@@ -1,6 +1,6 @@
 ### Hi there, I'm Ferdous Kazemi 👋
 
-#### Senior Front-End Developer | UI & UX | WordPress Designer
+#### Senior Front-End Developer | WordPress Designer
 
 I am a Senior Front-End Developer with over **5 years of experience** building responsive, SEO-optimized applications for American startups and international clients. I specialize in **React, Next.js, and TypeScript**, with a strong background in integrating complex third-party tools and automating workflows.
 
